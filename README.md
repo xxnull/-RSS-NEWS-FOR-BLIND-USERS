@@ -3,6 +3,8 @@
 
 A simple idea to assist blind people in reading news from rss feeds. 
 
+CHECK THE DEMO http://catalejoapps.com/rnews4b/
+
 
 In this project i use the libraries  
 
