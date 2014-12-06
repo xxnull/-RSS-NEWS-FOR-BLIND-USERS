@@ -1,5 +1,6 @@
 -RSS-NEWS-FOR-BLIND-USERS
 =========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/xxnull/-RSS-NEWS-FOR-BLIND-USERS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A simple idea to assist blind people in reading news from rss feeds. 
 
